@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+}
+
+header {
+  background: #0a3d62;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.course {
+  background: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: green;
+  color: white;
+  padding: 10px;
+}
